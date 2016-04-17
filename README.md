@@ -1,1 +1,1 @@
-2016 Ohjelmistotuotanto, viikko 1 laskarit
+[![Build Status](https://travis-ci.org/mluukkai/ohtutesti16.svg?branch=master)](https://travis-ci.org/mluukkai/ohtutesti16)
